@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ethanvertex.
+- 👀 I conduct security testing and research.
+- 🌱 I’m currently learning TypeScript.
+- 💞️ I’m looking to collaborate on the Lyra programming language.
+- 📫 How to reach me: e@ethanvertex.org
